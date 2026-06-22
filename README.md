@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="เว็บไซต์แสดงผลงานและทักษะของ Somchai">
-    <title>ความภาคภูมิใจของ SOMCHAI</title>
+    <meta name="description" content="เว็บไซต์แสดงผลงานและทักษะของ Pattarawadee">
+    <title>ความภาคภูมิใจของ PATTARAWADEE</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -12,7 +12,7 @@
 
     <!-- ส่วนหัวของเว็บ -->
     <header>
-        <h1>สวัสดี! ผมชื่อ SOMCHAI</h1>
+        <h1>สวัสดี! ผมชื่อ PATTARAWADEE</h1>
         <p>ตัวอย่างผลงานและความภาคภูมิใจของผม</p>
     </header>
 
@@ -52,7 +52,7 @@
 
     <!-- ส่วนติดต่อและลิขสิทธิ์ -->
     <footer>
-        <p>ติดต่อผมได้ที่: <a href="mailto:somchai@example.com">somchai@example.com</a></p>
+        <p>ติดต่อผมได้ที่: <a href="mailto:s34598@banbung.ac.th">s34598@banbung.ac.th</a></p>
         <p>&copy; <span id="year"></span> SOMCHAI. All rights reserved.</p>
     </footer>
 
